@@ -1,5 +1,5 @@
 *** Settings ***
-Resource            ../Resources/Cleveland-Resource.robot
+Resource            ../resources/Cleveland-Resource.robot
 Suite Setup          Setup Browser
 Suite Teardown       End suite
 
